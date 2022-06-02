@@ -1,4 +1,4 @@
-# SQL_TEMPLATE CODER HOUSE COMISION 31885
+# SQL_TEMPLATE CODER HOUSE
 
 ## Tutor: Anderson Ocaña
 
@@ -8,7 +8,7 @@
 ---
 Luego de esta breve introducción, verán en la carpeta las siguientes carpetas:
 
-En cada una de estas tendrán el siguiente formato y que es lo que deberá contener, para poder presentar de manera óptima sus trabajos con Camilo. 
+En cada una de estas tendrán el siguiente formato y que es lo que deberá contener, para poder presentar de manera óptima sus trabajos con el docente. 
 ---
 
 # ARCHIVOS_SQL
